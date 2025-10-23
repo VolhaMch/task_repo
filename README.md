@@ -1,3 +1,7 @@
+# Conflict
+
+This is another message created to make a conflict with a branch conflict-branch
+
 # Educational Project
 
 This repository was created as part of learning Git and GitHub.  
