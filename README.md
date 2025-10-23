@@ -1,6 +1,7 @@
-# Conflict
 
-This is another message created to make a conflict with a branch conflict-branch
+# Create conflict
+
+The conflict created between main and conflict-branch was successfully resolved
 
 # Educational Project
 
