@@ -1,9 +1,8 @@
+
 # Create conflict
 
-This README file on a branch 'conflict-branch' is modified in order to create a conflict
+The conflict created between main and conflict-branch was successfully resolved
 
-
----
 # Educational Project
 
 This repository was created as part of learning Git and GitHub.  
